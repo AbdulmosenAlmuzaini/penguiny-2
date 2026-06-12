@@ -1,0 +1,12 @@
+.git
+.dart_tool/
+build/
+android/
+ios/
+test/
+*.log
+*.class
+.pub-cache/
+.packages
+.web/
+coverage/
