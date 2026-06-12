@@ -1,0 +1,65 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.project
+.settings/
+.vscode/
+
+# Debian directory-specific
+debian/
+
+# IntelliJ related
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/workspace.xml
+
+# The directory where the pub cache is located.
+.pub-cache/
+
+# The directory where dependencies are downloaded.
+.packages
+
+# The directory where compilation artifacts are written.
+build/
+
+# The directory where dart-lang packages are configured.
+.dart_tool/
+
+# Web related
+.web/
+
+# Coverage
+coverage/
+
+# Flutter/Dart/Pub-related
+ios/Flutter/.flutter-plugins
+ios/Flutter/.flutter-plugins-dependencies
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/GeneratedPluginRegistrant.h
+ios/Flutter/GeneratedPluginRegistrant.m
+ios/Flutter/GeneratedPluginRegistrant.swift
+android/Flutter/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android-specific
+android/app/local.properties
+android/local.properties
+android/flutter_sdk.properties
+android/app/build/
+android/.gradle/
+
+# Windows-specific
+windows/flutter/ephemeral/
